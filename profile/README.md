@@ -33,7 +33,8 @@
 | | [sdk-go](https://github.com/openctemio/sdk-go) | Go SDK, sensor kit and scanner integrations |
 | | [connector-tenable](https://github.com/openctemio/connector-tenable) | Tenable Security Center connector |
 | | [ci](https://github.com/openctemio/ci) | CI/CD scanner images and pipeline integrations |
-| Data | [ctis](https://github.com/openctemio/ctis) | CTEM Ingest Schema: the open format for assets, findings and SBOMs |
+| Data | [ctis](https://github.com/openctemio/ctis) | CTEM Interchange Schema 2.0: the open format for assets, findings and SBOMs, with SARIF, CycloneDX, SPDX, CSAF, OpenVEX and OCSF adapters |
+| | [contract](https://github.com/openctemio/contract) | Platform-sensor contracts: capabilities, tool settings, transfer bundles |
 | | [vulnfeed](https://github.com/openctemio/vulnfeed) | Signed, normalised vulnerability feed |
 | | [programfeed](https://github.com/openctemio/programfeed) | Signed feed of public disclosure programs |
 | | [sast-rules](https://github.com/openctemio/sast-rules) | Tested, signed SAST rules |
