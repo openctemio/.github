@@ -6,7 +6,6 @@
 </p>
 
 <h3 align="center">Open-source Continuous Threat Exposure Management</h3>
-<p align="center"><em>Nền tảng mã nguồn mở quản lý phơi nhiễm mối đe doạ liên tục</em></p>
 
 <p align="center">
   <a href="https://openctem.io">openctem.io</a>
@@ -20,7 +19,6 @@
 
 **OpenCTEM** runs the whole CTEM loop in one self-hostable platform: scope what matters, discover your attack surface, prioritise by real exploitability, validate with retests and pentest campaigns, and mobilise fixes until they are verified closed. It never auto-closes a finding without evidence, signs every job it sends to a sensor, and keeps each tenant's data isolated.
 
-**OpenCTEM** chạy trọn vòng lặp CTEM trên một nền tảng tự cài được: xác định phạm vi, phát hiện bề mặt tấn công, xếp ưu tiên theo khả năng khai thác thực tế, xác minh bằng kiểm thử lại và pentest, rồi theo dõi việc khắc phục cho tới khi được xác nhận đã đóng.
 
 | Scope | Discover | Prioritise | Validate | Mobilise |
 |---|---|---|---|---|
